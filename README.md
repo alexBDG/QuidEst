@@ -17,9 +17,13 @@ Actuellement la version la plus récente est : *Version beta*.
 
 
 ## Installation
-Pour créer l'exécutable, il suffit de d'installer le pacquet `pyinstaller`.
+* Pour créer l'exécutable, il suffit de d'installer le pacquet `pyinstaller`.
 
-Puis exécuter la commande : `$ pyinstaller QuidEst-beta.spec`
+  Puis exécuter la commande : `$ pyinstaller QuidEst-beta.spec`
+
+* Pour créer l'installeur, qui est une aide à l'installation, il faut exécuter la commande : `$ pyinstaller pre_QuidEst.spec`
+
+  Il permet seulement de décompresser le dossier après téléchargement, et de créer un raccourci de l'exécutable sur le bureau. Les dossier de l'application seront placé dans le dossier *Documents* de l'ordinateur.
 
 
 ## Crédits
