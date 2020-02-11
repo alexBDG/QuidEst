@@ -12,6 +12,7 @@ Actuellement la version la plus récente est : *Version beta*.
 
 ## Installation
 Pour créer l'exécutable, il suffit de d'installer le pacquet `pyinstaller`.
+
 Puis exécuter la commande : `$ pyinstaller QuidEst-beta.spec`
 
 
