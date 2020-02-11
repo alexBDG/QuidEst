@@ -1,2 +1,2 @@
 # QuidEst
-Dépôt de projet de ~QuidEst~
+Dépôt de projet de <QuidEst>
